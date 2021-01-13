@@ -9,13 +9,13 @@
 #### 4. Verify a Phone Number on Twilio https://www.twilio.com/console/phone-numbers/verified. That you would like to text.
 
 #### 5. Get Twilio Credentials
-- [ ] https://www.twilio.com/console 
-- [ ] Get Account SID
-- [ ] Get Auth Token
+-  https://www.twilio.com/console 
+-  Get Account SID
+-  Get Auth Token
 
 #### 6. Get Phone Numbers
-- [ ] [Your Twilio Number is Here](https://www.twilio.com/console/phone-numbers/incoming)
-- [ ] [Verified Cell Phone Number You Want To Text](https://www.twilio.com/console/phone-numbers/verified)
+-  [Your Twilio Number is Here](https://www.twilio.com/console/phone-numbers/incoming)
+-  [Verified Cell Phone Number You Want To Text](https://www.twilio.com/console/phone-numbers/verified)
 
 #### 7. Put your twilio credentials and twilio phone numbers in `credentials.py`
 
@@ -34,4 +34,4 @@ python Desktop/CP-Twilio-Python-Text-App/send_sms.py
 ```
 
 ### Congratulations!
-- [X] You just sent your first text through your Python Text App that uses the Twilio API.
+-  You just sent your first text through your Python Text App that uses the Twilio API.
